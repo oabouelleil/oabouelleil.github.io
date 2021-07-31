@@ -2,4 +2,14 @@
 
 # Allow crawling of all content
 User-agent: *
-Disallow:
+Disallow:z
+
+# Link to sitemap
+Sitemap: http://oabouelleil.github.io/sitemap.xml
+
+# Hiding pages from search engines
+# According to Heather Champ, former community manager at Flickr,
+# you should not allow search engines to index your "Contact Us" or
+# "Complaints" page if you value your sanity.
+# This is an HTML-centric way of achieving that.
+# <meta name="robots" content="noindex">
