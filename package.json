@@ -1,10 +1,8 @@
 {
-  "name": " ",
+  "name": "omar_abouelleil_portfolio",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "private": "true",
+  "author": "Omar Abouelleil",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
